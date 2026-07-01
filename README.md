@@ -96,7 +96,7 @@ Características
 
 Modelo para la predicción de temperatura y cálculo de Growing Degree Days (GDD) aplicado al sector agrícola colombiano.
 
-Incluye
+Incluyehttps://github.com/proyectosml2301/proyectosml2301/blob/main/README.md
 
 - Machine Learning
 - Series de tiempo
