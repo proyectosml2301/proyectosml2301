@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jorge Aquino
 
-<img src="https://i.pinimg.com/736x/4a/37/92/4a37927d51ed5e5f31387f5f245af808.jpg" alt="Banner" height="80%" width="auto">
+<img src="https://i.pinimg.com/736x/4a/37/92/4a37927d51ed5e5f31387f5f245af808.jpg" height="80%" width="auto">
 
 **Data Analyst | Business Intelligence | Python | Machine Learning | Power BI**
 
