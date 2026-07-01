@@ -1,23 +1,14 @@
 # 👋 Hola, soy Jorge Aquino
 
+<img src="https://i.pinimg.com/736x/4a/37/92/4a37927d51ed5e5f31387f5f245af808.jpg" alt="Banner" width="100%">
+
 **Data Analyst | Business Intelligence | Python | Machine Learning | Power BI**
 
 Apasionado por transformar datos en decisiones. Me especializo en el desarrollo de soluciones analíticas que combinan visualización, automatización e inteligencia artificial para resolver problemas reales de negocio.
 
-Actualmente enfocado en proyectos relacionados con:
-
-- 📊 Business Intelligence
-- 🐍 Python para análisis de datos
-- 🤖 Machine Learning
-- 📈 Power BI
-- 🗄️ SQL
-- ☁️ Microsoft Fabric
-- ⚙️ Automatización de procesos
-- 🏢 Soluciones para la industria aseguradora
-
 ---
 
-# 🚀 Tecnologías
+## 🚀 Tecnologías
 
 | Lenguajes | Análisis | Visualización | Cloud |
 |-----------|----------|---------------|-------|
@@ -27,39 +18,27 @@ Actualmente enfocado en proyectos relacionados con:
 
 ---
 
-# 📂 Proyectos Destacados
+## 📂 Proyectos Destacados
 
-## 📊 Olist Sales Analytics
-
+### 📊 Olist Sales Analytics
 Dashboard ejecutivo desarrollado en Power BI para una tienda online brasileña.
 
-**Incluye**
-
+**Incluye:**
 - KPIs ejecutivos
 - Forecasting de ventas
 - Segmentación de clientes
 - Análisis geográfico
 - Análisis de productos
-- Predicción de ventas utilizando Machine Learning
+- Predicción de ventas con ML
 
-Tecnologías
-
-```
-Power BI
-Python
-Prophet
-Pandas
-SQL
-```
+**Tecnologías:** `Power BI` `Python` `Prophet` `Pandas` `SQL`
 
 ---
 
-## 🩺 Sleep Health Prediction
+### 🩺 Sleep Health Prediction
+Modelo de Machine Learning para predicción de presión arterial usando variables de calidad del sueño.
 
-Modelo de Machine Learning para la predicción de presión arterial utilizando variables relacionadas con la calidad del sueño.
-
-Incluye
-
+**Incluye:**
 - EDA
 - Ingeniería de variables
 - Entrenamiento de modelos
@@ -68,22 +47,12 @@ Incluye
 
 ---
 
-## 🏥 Insurance Reminder Automation
+### 🏥 Insurance Reminder Automation
+Sistema automatizado para envío de recordatorios de vencimiento de pólizas.
 
-Sistema de automatización para el envío de recordatorios de vencimiento de pólizas.
+**Tecnologías:** `Python` `GitHub Actions` `Microsoft Graph` `SharePoint` `Outlook`
 
-Tecnologías
-
-```
-Python
-GitHub Actions
-Microsoft Graph
-SharePoint
-Outlook
-```
-
-Características
-
+**Características:**
 - Lectura automática desde SharePoint
 - Reglas de negocio
 - Envío de correos
@@ -92,33 +61,29 @@ Características
 
 ---
 
-## 🌽 Crop Temperature Prediction
+### 🌽 Crop Temperature Prediction
+Modelo para predicción de temperatura y cálculo de Growing Degree Days (GDD) aplicado al sector agrícola colombiano.
 
-Modelo para la predicción de temperatura y cálculo de Growing Degree Days (GDD) aplicado al sector agrícola colombiano.
-
-Incluyehttps://github.com/proyectosml2301/proyectosml2301/blob/main/README.md
-
+**Incluye:**
 - Machine Learning
 - Series de tiempo
 - Variables climáticas
 - Agricultura de precisión
 
+[🔗 Ver proyecto](https://github.com/proyectosml2301/proyectosml2301/blob/main/README.md)
+
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=proyectosml2301&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proyectosml2301&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-# 📚 Actualmente aprendiendo
-
+## 📚 Actualmente aprendiendo
 - Microsoft Fabric
 - Azure Data Engineering
 - MLOps
@@ -127,19 +92,12 @@ Incluyehttps://github.com/proyectosml2301/proyectosml2301/blob/main/README.md
 
 ---
 
-# 🎯 Objetivo
-
+## 🎯 Objetivo
 Construir soluciones basadas en datos que generen impacto real mediante automatización, analítica avanzada e inteligencia artificial.
 
 ---
 
-# 📫 Contacto
+## 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgeaquino-data)
 
-LinkedIn:
-
-www.linkedin.com/in/jorgeaquino-data
-
-Email:
-
-aquinosuarez@gmail.com
-
+**Email:** aquinosuarez@gmail.com
